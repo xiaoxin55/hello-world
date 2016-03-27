@@ -1,6 +1,6 @@
 # hello-world
 first repositoy
 
-my first readme
+my first hello world
 
 branch modify
